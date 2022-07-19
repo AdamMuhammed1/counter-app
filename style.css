@@ -1,0 +1,19 @@
+body {
+  background-color: #ccc;
+}
+button {
+  position: absolute;
+  top: 50%;
+  left: 45%;
+  width: 5rem;
+  padding: 10px;
+}
+.container {
+  position: absolute;
+  top: 10%;
+  right: 30%;
+  width: 500px;
+  height: 500px;
+  padding: 10;
+  margin-top: 10px;
+}
